@@ -106,5 +106,3 @@ This is a portfolio project created for learning and demonstration purposes.
 The dataset used in this project is synthetic and designed to simulate real-world customer behavior scenarios.
 
 ---
-
-Say it once, I won’t break it again 😤💪
