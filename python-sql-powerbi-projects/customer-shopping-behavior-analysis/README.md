@@ -68,7 +68,7 @@ Each step is intentionally aligned with real business use cases rather than pure
 Clone the repository:
 
 ```bash
-git clone https://github.com/AhmedKadiwala/data-analytics-portfolio.git
+git clone https://github.com/AhmedKadiwala/data-analytics-portfolio/tree/main/python-sql-powerbi-projects/customer-shopping-behavior-analysis
 ```
 
 Navigate to the project directory:
